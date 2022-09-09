@@ -72,8 +72,10 @@ const inputClosePin = document.querySelector('.form__input--pin');
 //////////////////////////////////
 //fake log in
 let currentAccount, timer;
-// containerApp.style.opacity = 100;
-// currentAccount = account1;
+
+//🌟 Please toggle the below on/off to test log in 🌟
+containerApp.style.opacity = 100;
+currentAccount = account1;
 // labelDate.style.opacity = 0;
 
 //functions
